@@ -1,4 +1,4 @@
-[center][IMG="streak"]https://github.com/Raaj52/My_Stuff/blob/main/streak_xda.jpg?raw=true[/IMG]
+[center][IMG="streak"]https://github.com/ProjectStreak/platform_StreakStuff/blob/eleven/XDA/streak_xda.jpg?raw=true[/IMG]
 
 [CODE]
 [B]*** Disclaimer***[/B]
@@ -14,90 +14,63 @@
 [B]Raaj52[/B] | Lead Developer
 [B]San9scurtu[/B] | Project Contributor [/SIZE][/FONT]
 
-[B][SIZE="4"][FONT="Century Gothic"][COLOR="SteelBlue"] ROM [/COLOR][/FONT][/SIZE][/B]
-[SIZE="2"][FONT="Verdana"] Official Build | MIUI vendor Build wih LOS FOD - [URL="https://dl.raaj52.workers.dev/DerpFest-11-Community-Alpha-raphael-nightly-20201024.zip"][B]GApps Download[/B][/URL]
-Check out the [URL="https://link-to-changelog"][B]Changelog[/URL][/B] | [URL="https://link-to-FAQ"][B] FAQ [/B][/URL][/FONT][/SIZE]
-
 [B][SIZE="4"][FONT="Century Gothic"][COLOR="SteelBlue"]Features[/COLOR][/FONT][/SIZE][/B]
 [HIDE][SIZE="2"][B][FONT="Verdana"][COLOR="DarkSlateGrey"]Theming[/COLOR][/FONT][/B][LIST]
-[*]Styles Configuration Menu
-[*]4 System Icon Shapes
-[*]43 System Fonts
-[*]7 Primary Colors (Backgrund Colors)
-[*]6 Lockscreen Clock Styles
+[*]6 System Fonts
+[*]5 Streak Themes colors
+[*]9 System Icon Shapes
+[*]8 Lockscreen Clock Styles
+[*]7 Streak Icon Packs
 [*]Grid
-[*]Wallpaper Picker
-[*]RGB Accent Picker
-[*]Rounded Corners[/LIST]
+[*]RGB Accent Picker[/LIST]
 [B][FONT="Verdana"][COLOR="DarkSlateGrey"]Statusbar[/COLOR][/FONT][/B][LIST]
-[*]System Icons
-[*]StatusBar Logo
-[*]Network Traffic Display
-[*]Battery Percent Show/Hide Config
-[*]Show Clock
-[*]Show Date
-[*]Ticker(Beta)
-[*]Carrier Label Settings[/LIST]
-[B][FONT="Verdana"][COLOR="DarkSlateGrey"]Quick Settings[/COLOR][/FONT][/B][LIST]
-[*]Statusbar Pulldown (Left/Right)
-[*]QS Opacity & Color Configs
-[*]QS Background Image Blur
-[*]Brightness Slider
-[*]Tiles Area
-[*]Footers Area
-[*]Header Area[/LIST]
+[*]Network traffic
+[*]Network autohide threshold
+[*]VoLTE icons
+[*]VoWiFi icon
+[*]VoWiFi icon instead of VoLTE icon
+[*]Statusbar battery indicator
+[*]QS Tile colors
+[*]Brightness slider options
+[*]Autobrightness icon[/LIST]
 [B][FONT="Verdana"][COLOR="DarkSlateGrey"]Buttons[/COLOR][/FONT][/B][LIST]
-[*]NavBar (Enable/Disable)
-[*]Screen Off Power Button Torch
-[*]Volume Settings
-[*]Hardware Keys
-[*]Prevent Accidental Touch
-[*]Enable On-Screen Navbar
-[*]Enable backlight
-[*]Hardware Keys Customisation[/LIST]
+[*]Playback control
+[*]Volume rocker wake
+[*]Volume steps
+[*]Hardware Keys[/LIST]
 [B][FONT="Verdana"][COLOR="DarkSlateGrey"]Gestures[/COLOR][/FONT][/B][LIST]
 [*]AOSP Gestures
-[*]Back Gesture Height Config
-[*]Toggle To Hide Navbar Pill
+[*]Brightness control
 [*]Double Tap To Sleep Status Bar
 [*]Double Tap to Sleep Lockscreen
 [*]Three Finger Swipe To Screenshot[/LIST]
 [B][FONT="Verdana"][COLOR="DarkSlateGrey"]Lockscreen[/COLOR][/FONT][/B][LIST]
-[*]Fingerprint Authentication Vibration Toggle
-[*]Ambient Brightness
-[*]Lock Screen Shortcuts
-[*]Status bar visibility toggle
-[*]Hide LockScreen Icon
+[*]Fingerprint error vibration Toggle
+[*]Fingerprint recognizing animations
+[*]Transparent notifications
+[*]Wake up on charge
 [*]Lockscreen Charging Info
-[*]Show Battery Bar
-[*]Clock/Date/Owner Info Options
-[*]Lock Screen Music Visualizer
-[*]Lock Screen Media Artwork Configs[/LIST]
+[*]SmartSpace on lockscreen[/LIST]
 [B][FONT="Verdana"][COLOR="DarkSlateGrey"]PowerMenu[/COLOR][/FONT][/B][LIST]
-[*]Disable PowerMenu When Locked
+[*]Enable advanced restart
+[*]Hide power menu on lockscreen
 [*]Power Menu Items[/LIST]
 [B][FONT="Verdana"][COLOR="DarkSlateGrey"]Notifications[/COLOR][/FONT][/B][LIST]
-[*]Notification Light
-[*]Battery Charging Light
-[*]Charging Animations
-[*]Show Gentle Notifications
-[*]Force Expanded Notifications
-[*]Edge Lighting
-[*]Noisy Notifications
+[*]Kill app button
+[*]Heads Up options
+[*]Center notification headers
+[*]Notification headers
 [*]In Call Vibration Options[/LIST]
-[B][FONT="Verdana"][COLOR="DarkSlateGrey"]Animations[/COLOR][/FONT][/B][LIST]
-[*]Animation Duration
-[*]Disable Transition Animations
-[*]ListView Animations[/LIST]
-[B][FONT="Verdana"][COLOR="DarkSlateGrey"]Miscellaneous[/COLOR][/FONT][/B][LIST]
-[*]Wake On Charge
-[*]Brightness Control
-[*]Signature Spoofing Support
-[*]Time In State Monitor
-[*]Doze Settings
 [/LIST][/SIZE][/HIDE]
-[B][SIZE="4"][FONT="Century Gothic"][COLOR="SteelBlue"]Our Website[/COLOR][/FONT][/SIZE][/B]
-[SIZE="2"][FONT="Verdana"]Checkout our website [/SIZE][SIZE="2"][B][URL="https://projectstreak.xyz"]projectstreak.xyz[/URL][/B][/SIZE] [SIZE="2"]for more information and other device sections.[/SIZE][/FONT]
+
+[B][SIZE="4"][FONT="Century Gothic"][COLOR="SteelBlue"] ROM DOWNLOAD [/COLOR][/FONT][/SIZE][/B]
+[SIZE="2"][FONT="Verdana"] Download Official Build for raphael - [URL="https://sourceforge.net/projects/projectstreak/files/raphael"][B]Download[/B][/URL]
+
+[B][SIZE="4"][FONT="Century Gothic"][COLOR="SteelBlue"]Our telegram channel[/COLOR][/FONT][/SIZE][/B]
+[SIZE="2"][FONT="Verdana"]Checkout our channel: [/SIZE][SIZE="2"][B][URL="https://t.me/ProjectStreakOfficial"]ProjectStreak[/URL][/B][/SIZE] [SIZE="2"]for more information and changes[/SIZE][/FONT]
+
+[B][SIZE="4"][FONT="Century Gothic"][COLOR="SteelBlue"]Our telegram chat[/COLOR][/FONT][/SIZE][/B]
+[SIZE="2"][FONT="Verdana"]Checkout our chat: [/SIZE][SIZE="2"][B][URL="https://t.me/ProjectStreak"]ProjectStreak[/URL][/B][/SIZE] [SIZE="2"]for support devices.[/SIZE][/FONT]
 
 [B][SIZE="4"][FONT="Century Gothic"][COLOR="SteelBlue"]Installation Instructions[/COLOR][/FONT][/SIZE][/B]
 [SIZE="2"] [FONT="Verdana"][B][U][COLOR="DarkSlateGrey"]Pre-requisites[/COLOR][/U][/B]
@@ -121,7 +94,6 @@ Check out the [URL="https://link-to-changelog"][B]Changelog[/URL][/B] | [URL="ht
 [*]Use #notes #guides #faq to learn
 [*]Type #groups to enjoy more.
 [*]Get all files via #files
-[*][URL="https://t.me/ProjectStreak"][B]Support Telegram Group[/B][/URL][/FONT][/SIZE][/LIST]
 [B][SIZE="4"][FONT="Century Gothic"][COLOR="SteelBlue"]Bug Reporting[/COLOR][/FONT][/SIZE][/B]
 [SIZE="2"][FONT="Verdana"][LIST]
 [*]DO NOT Report bugs if you're running a custom kernel or you installed Xposed
@@ -143,10 +115,12 @@ Check out the [URL="https://link-to-changelog"][B]Changelog[/URL][/B] | [URL="ht
 [*]YAAP
 [*]ProtonAOSP
 [*]Evolution X
-[*]awaken
+[*]Project-Awaken
 [/LIST]
 The list is not complete here, we thank and give credit to all who contributed to our great community.
 Last but not the least, all our testers, who helped us to identify and solve many bugs as possible so that we can provide the best experience to you all [/SIZE][/FONT]
+
+[B][SIZE="3"][URL="https://www.paypal.me/HSgod02"][COLOR="SteelBlue"]Want to support us? Here you have a link to donation.[/COLOR][/URL][/SIZE][/B]
 
 [B][SIZE="4"][FONT="Century Gothic"][COLOR="SteelBlue"]Source Code[/COLOR][/FONT][/SIZE][/B]
 [B][SIZE="2"]Device Tree - [/SIZE][/B][URL="https://github.com/Raaj52/device_xiaomi_raphael"][SIZE="2"]https://github.com/Raaj52/device_xiaomi_raphael[/SIZE][/URL]
